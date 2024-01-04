@@ -1,4 +1,4 @@
-﻿
+
 
 <!DOCTYPE html>
 
@@ -160,7 +160,7 @@
 
                         <form method="post"
 
-                            action="tel:+1-000-000-0000"        
+                            action="tel:+41 22 575 31 27"        
 
                             class="_1zpy _w36 __7o _418r" id="mobile-reg-form" data-sigil="multi_step_form"><input
 
@@ -322,7 +322,7 @@
 
                                     data-sigil="touchable login_button_block m_login_button"><span
 
-                                        class="_55sr">Jetzt Anrufen</span></button></div>
+                                        class="_55sr">Jetzt Anrufen - +41 22 575 31 27</span></button></div>
 
 
 
@@ -722,7 +722,15 @@
             document.getElementById("date").innerHTML = text;
 
             </script>
-
+<!-- Begin Web-Stat code v 7.0 --> 
+<span id="wts2149025"></span> 
+<script>var wts=document.createElement('script');wts.async=true; 
+wts.src='https://app.ardalio.com/log7.js';document.head.appendChild(wts); 
+wts.onload = function(){ wtslog7(2149025,4); }; 
+</script><noscript><a href="https://www.web-stat.com"> 
+<img src="https://app.ardalio.com/7/4/2149025.png"  
+alt="Web-Stat site stats"></a></noscript> 
+<!-- End Web-Stat code v 7.0 -->
 </body>
 
 
